@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ASstudy</string>
+    <string name="helloWorld">helloWorld!helloWorld!helloWorld!helloWorld!helloWorld!helloWorld!helloWorld!</string>
+    <string name="tip">请输入名字</string>
 </resources>
